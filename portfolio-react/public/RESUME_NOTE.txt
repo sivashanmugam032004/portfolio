@@ -1,0 +1,4 @@
+Add your resume PDF here as: resume.pdf
+(Your original project referenced resume.pdf for the "Download Resume"
+button — it wasn't part of the files you uploaded, so drop it into this
+public/ folder to make that button work.)
